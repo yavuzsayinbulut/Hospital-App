@@ -1,0 +1,62 @@
+D:\Project\Hastane Otomasyonu\Hastane Otomasyonu\bin\Debug\Hastane Otomasyonu.exe.config
+D:\Project\Hastane Otomasyonu\Hastane Otomasyonu\bin\Debug\Hastane Otomasyonu.exe
+D:\Project\Hastane Otomasyonu\Hastane Otomasyonu\bin\Debug\Hastane Otomasyonu.pdb
+D:\Project\Hastane Otomasyonu\Hastane Otomasyonu\obj\Debug\Hastane Otomasyonu.csprojResolveAssemblyReference.cache
+D:\Project\Hastane Otomasyonu\Hastane Otomasyonu\obj\Debug\Hastane_Otomasyonu.giris.resources
+D:\Project\Hastane Otomasyonu\Hastane Otomasyonu\obj\Debug\Hastane_Otomasyonu.Properties.Resources.resources
+D:\Project\Hastane Otomasyonu\Hastane Otomasyonu\obj\Debug\Hastane Otomasyonu.csproj.GenerateResource.Cache
+D:\Project\Hastane Otomasyonu\Hastane Otomasyonu\obj\Debug\Hastane Otomasyonu.exe
+D:\Project\Hastane Otomasyonu\Hastane Otomasyonu\obj\Debug\Hastane Otomasyonu.pdb
+D:\Project\Hastane Otomasyonu\Hastane Otomasyonu\obj\Debug\Hastane_Otomasyonu.Randevu.resources
+D:\Project\Hastane Otomasyonu\Hastane Otomasyonu\obj\Debug\Hastane_Otomasyonu.YetkiliGiris.resources
+C:\Users\unvanli\Desktop\c#\Hastane Otomasyonu\Hastane Otomasyonu\bin\Debug\Hastane Otomasyonu.exe.config
+C:\Users\unvanli\Desktop\c#\Hastane Otomasyonu\Hastane Otomasyonu\obj\Debug\Hastane Otomasyonu.exe
+C:\Users\unvanli\Desktop\c#\Hastane Otomasyonu\Hastane Otomasyonu\obj\Debug\Hastane Otomasyonu.pdb
+H:\c#\Hastane Otomasyonu\Hastane Otomasyonu\bin\Debug\Hastane Otomasyonu.exe.config
+H:\c#\Hastane Otomasyonu\Hastane Otomasyonu\obj\Debug\Hastane Otomasyonu.exe
+H:\c#\Hastane Otomasyonu\Hastane Otomasyonu\obj\Debug\Hastane Otomasyonu.pdb
+H:\Proje\Ara Rapor 2\c#\Hastane Otomasyonu\Hastane Otomasyonu\bin\Debug\Hastane Otomasyonu.exe.config
+H:\Proje\Ara Rapor 2\c#\Hastane Otomasyonu\Hastane Otomasyonu\obj\Debug\Hastane Otomasyonu.exe
+H:\Proje\Ara Rapor 2\c#\Hastane Otomasyonu\Hastane Otomasyonu\obj\Debug\Hastane Otomasyonu.pdb
+D:\Project\Hastane Otomasyonu Classlı\Hastane Otomasyonu\bin\Debug\Hastane Otomasyonu.exe.config
+D:\Project\Hastane Otomasyonu Classlı\Hastane Otomasyonu\obj\Debug\Hastane Otomasyonu.exe
+D:\Project\Hastane Otomasyonu Classlı\Hastane Otomasyonu\obj\Debug\Hastane Otomasyonu.pdb
+D:\Project\Hastane Otomasyonu Classlı\Hastane Otomasyonu\bin\Debug\Hastane Otomasyonu.exe
+D:\Project\Hastane Otomasyonu Classlı\Hastane Otomasyonu\bin\Debug\Hastane Otomasyonu.pdb
+D:\Project\Hastane Otomasyonu Classlı\Hastane Otomasyonu\obj\Debug\Hastane Otomasyonu.csprojResolveAssemblyReference.cache
+D:\Project\Hastane Otomasyonu Classlı\Hastane Otomasyonu\obj\Debug\Hastane_Otomasyonu.giris.resources
+D:\Project\Hastane Otomasyonu Classlı\Hastane Otomasyonu\obj\Debug\Hastane_Otomasyonu.Properties.Resources.resources
+D:\Project\Hastane Otomasyonu Classlı\Hastane Otomasyonu\obj\Debug\Hastane_Otomasyonu.Randevu.resources
+D:\Project\Hastane Otomasyonu Classlı\Hastane Otomasyonu\obj\Debug\Hastane_Otomasyonu.YetkiliGiris.resources
+D:\Project\Hastane Otomasyonu Classlı\Hastane Otomasyonu\obj\Debug\Hastane Otomasyonu.csproj.GenerateResource.Cache
+D:\Project\Hastane Otomasyonu Classlı\Hastane Otomasyonu\obj\Debug\Hastane_Otomasyonu.Vezne.resources
+D:\Project\Hastane Otomasyonu Classlı\Hastane Otomasyonu\obj\Debug\Hastane_Otomasyonu.InsanKaynaklari.resources
+D:\Student\Bitirme Tezi\Hastane Otomasyonu Classlı\Hastane Otomasyonu\bin\Debug\Hastane Otomasyonu.exe.config
+D:\Student\Bitirme Tezi\Hastane Otomasyonu Classlı\Hastane Otomasyonu\obj\Debug\Hastane Otomasyonu.exe
+D:\Student\Bitirme Tezi\Hastane Otomasyonu Classlı\Hastane Otomasyonu\obj\Debug\Hastane Otomasyonu.pdb
+D:\Student\Bitirme Tezi\Hastane Otomasyonu Classlı\Hastane Otomasyonu\bin\Debug\Hastane Otomasyonu.exe
+D:\Student\Bitirme Tezi\Hastane Otomasyonu Classlı\Hastane Otomasyonu\bin\Debug\Hastane Otomasyonu.pdb
+D:\Student\Bitirme Tezi\Hastane Otomasyonu Classlı\Hastane Otomasyonu\obj\Debug\Hastane Otomasyonu.csprojResolveAssemblyReference.cache
+D:\Student\Bitirme Tezi\Hastane Otomasyonu Classlı\Hastane Otomasyonu\obj\Debug\Hastane_Otomasyonu.giris.resources
+D:\Student\Bitirme Tezi\Hastane Otomasyonu Classlı\Hastane Otomasyonu\obj\Debug\Hastane_Otomasyonu.InsanKaynaklari.resources
+D:\Student\Bitirme Tezi\Hastane Otomasyonu Classlı\Hastane Otomasyonu\obj\Debug\Hastane_Otomasyonu.Properties.Resources.resources
+D:\Student\Bitirme Tezi\Hastane Otomasyonu Classlı\Hastane Otomasyonu\obj\Debug\Hastane_Otomasyonu.Randevu.resources
+D:\Student\Bitirme Tezi\Hastane Otomasyonu Classlı\Hastane Otomasyonu\obj\Debug\Hastane_Otomasyonu.Vezne.resources
+D:\Student\Bitirme Tezi\Hastane Otomasyonu Classlı\Hastane Otomasyonu\obj\Debug\Hastane_Otomasyonu.YetkiliGiris.resources
+D:\Student\Bitirme Tezi\Hastane Otomasyonu Classlı\Hastane Otomasyonu\obj\Debug\Hastane Otomasyonu.csproj.GenerateResource.Cache
+D:\Student\Bitirme Tezi\Hastane Otomasyonu Classlı\Hastane Otomasyonu\obj\Debug\Hastane_Otomasyonu.Doktor.resources
+D:\Student\Bitirme Tezi\Hastane Otomasyonu\Hastane Otomasyonu\bin\Debug\Hastane Otomasyonu.exe.config
+D:\Student\Bitirme Tezi\Hastane Otomasyonu\Hastane Otomasyonu\obj\Debug\Hastane Otomasyonu.exe
+D:\Student\Bitirme Tezi\Hastane Otomasyonu\Hastane Otomasyonu\obj\Debug\Hastane Otomasyonu.pdb
+D:\Student\Bitirme Tezi\Hastane Otomasyonu\Hastane Otomasyonu\bin\Debug\Hastane Otomasyonu.exe
+D:\Student\Bitirme Tezi\Hastane Otomasyonu\Hastane Otomasyonu\bin\Debug\Hastane Otomasyonu.pdb
+D:\Student\Bitirme Tezi\Hastane Otomasyonu\Hastane Otomasyonu\obj\Debug\Hastane Otomasyonu.csprojResolveAssemblyReference.cache
+D:\Student\Bitirme Tezi\Hastane Otomasyonu\Hastane Otomasyonu\obj\Debug\Hastane_Otomasyonu.Doktor.resources
+D:\Student\Bitirme Tezi\Hastane Otomasyonu\Hastane Otomasyonu\obj\Debug\Hastane_Otomasyonu.giris.resources
+D:\Student\Bitirme Tezi\Hastane Otomasyonu\Hastane Otomasyonu\obj\Debug\Hastane_Otomasyonu.InsanKaynaklari.resources
+D:\Student\Bitirme Tezi\Hastane Otomasyonu\Hastane Otomasyonu\obj\Debug\Hastane_Otomasyonu.Properties.Resources.resources
+D:\Student\Bitirme Tezi\Hastane Otomasyonu\Hastane Otomasyonu\obj\Debug\Hastane_Otomasyonu.Randevu.resources
+D:\Student\Bitirme Tezi\Hastane Otomasyonu\Hastane Otomasyonu\obj\Debug\Hastane_Otomasyonu.Vezne.resources
+D:\Student\Bitirme Tezi\Hastane Otomasyonu\Hastane Otomasyonu\obj\Debug\Hastane_Otomasyonu.YetkiliGiris.resources
+D:\Student\Bitirme Tezi\Hastane Otomasyonu\Hastane Otomasyonu\obj\Debug\Hastane Otomasyonu.csproj.GenerateResource.Cache
+D:\Student\Bitirme Tezi\Hastane Otomasyonu\Hastane Otomasyonu\obj\Debug\Hastane_Otomasyonu.IK2.resources

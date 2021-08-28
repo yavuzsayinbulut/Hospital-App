@@ -1,0 +1,14 @@
+D:\Student\Bitirme Tezi\Hastane Otomasyonu\Hastane Otomasyonu\bin\Release\Hastane Otomasyonu.exe.config
+D:\Student\Bitirme Tezi\Hastane Otomasyonu\Hastane Otomasyonu\bin\Release\Hastane Otomasyonu.exe
+D:\Student\Bitirme Tezi\Hastane Otomasyonu\Hastane Otomasyonu\bin\Release\Hastane Otomasyonu.pdb
+D:\Student\Bitirme Tezi\Hastane Otomasyonu\Hastane Otomasyonu\obj\Release\Hastane_Otomasyonu.Doktor.resources
+D:\Student\Bitirme Tezi\Hastane Otomasyonu\Hastane Otomasyonu\obj\Release\Hastane_Otomasyonu.giris.resources
+D:\Student\Bitirme Tezi\Hastane Otomasyonu\Hastane Otomasyonu\obj\Release\Hastane_Otomasyonu.IK2.resources
+D:\Student\Bitirme Tezi\Hastane Otomasyonu\Hastane Otomasyonu\obj\Release\Hastane_Otomasyonu.InsanKaynaklari.resources
+D:\Student\Bitirme Tezi\Hastane Otomasyonu\Hastane Otomasyonu\obj\Release\Hastane_Otomasyonu.Properties.Resources.resources
+D:\Student\Bitirme Tezi\Hastane Otomasyonu\Hastane Otomasyonu\obj\Release\Hastane_Otomasyonu.Randevu.resources
+D:\Student\Bitirme Tezi\Hastane Otomasyonu\Hastane Otomasyonu\obj\Release\Hastane_Otomasyonu.Vezne.resources
+D:\Student\Bitirme Tezi\Hastane Otomasyonu\Hastane Otomasyonu\obj\Release\Hastane_Otomasyonu.YetkiliGiris.resources
+D:\Student\Bitirme Tezi\Hastane Otomasyonu\Hastane Otomasyonu\obj\Release\Hastane Otomasyonu.csproj.GenerateResource.Cache
+D:\Student\Bitirme Tezi\Hastane Otomasyonu\Hastane Otomasyonu\obj\Release\Hastane Otomasyonu.exe
+D:\Student\Bitirme Tezi\Hastane Otomasyonu\Hastane Otomasyonu\obj\Release\Hastane Otomasyonu.pdb
